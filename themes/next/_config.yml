@@ -141,10 +141,10 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-GitHub: https://github.com/liubaichuan
+  GitHub: https://github.com/liubaichuan
   #LinkLabel: Link
-豆瓣: http://douban.com/people/160926777
-知乎: http://www.zhihu.com/people/27hao-tong-xue
+  豆瓣: http://douban.com/people/160926777
+  知乎: http://www.zhihu.com/people/27hao-tong-xue
 
 # Social Links Icons
 # Icon Mapping:
