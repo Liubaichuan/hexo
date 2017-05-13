@@ -24,6 +24,8 @@ categories:
 >
 > If you have any questions you can contact us by replying to this email.
 
+<!-- more -->
+
 #### 原因
 
 小白的我在网上试图找到原因及解决方案，但没有找到大神解释原因，所以**原因不明**。个人的感觉可能是修改主题配置时有写进介于正确和错误之间的配置代码，使得Github认为这是一个Jekyll主题，莫名莫名。
