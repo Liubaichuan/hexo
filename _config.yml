@@ -71,3 +71,21 @@ deploy:
   type: git
   repo: git@github.com:liubaichuan/liubaichuan.github.io.git
   branch: master
+
+qiniu:
+  offline: false
+  sync: true
+  bucket: liubaichuan
+  access_key: 0-pMl7BdYuhuepGZ8TRV7m-SFiR5jiVxz1oKnrED
+  secret_key: U6cctgi6jcMIE21vQ-YoIGym1y0Ps-XKVH0LtI5j
+  dirPrefix:
+  urlPrefix: http://opzocsv3i.bkt.clouddn.com
+  local_dir: cdn
+  update_exist: true
+  image:
+    folder: images
+    extend:
+  js:
+    folder: js
+  css:
+    folder: css
