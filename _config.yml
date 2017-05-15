@@ -72,6 +72,9 @@ deploy:
   repo: git@github.com:liubaichuan/liubaichuan.github.io.git
   branch: master
 
+plugins:
+  - hexo-qiniu-sync
+
 qiniu:
   offline: false
   sync: true
