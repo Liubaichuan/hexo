@@ -38,6 +38,6 @@ categories:
 
 ##### 方案二
 
-从头开始，哈哈哈！没错， reinstall hexo and next ！！！
+从头开始，哈哈哈！没错， reinstall Hexo and Next ！！！
 
 > 参考：https://github.com/iissnan/hexo-theme-next/issues/1513
