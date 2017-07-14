@@ -46,7 +46,7 @@ Shift+F5是定位到最后三次编辑的位置，重复按下，就会在三次
 
 > 参考一：[公式转换](http://www.mathtype.cn/wenti/wordgongshi-zhuanhuan.html)
 >
-> 参考二：[毕业季朋友圈里转了一圈](https://www.zhihu.com/question/28122209)
+> 参考二：[论文季朋友圈里转了一圈](http://weibo.com/2803301701/C7tXwChvc?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1500016318319)
 
 
 
