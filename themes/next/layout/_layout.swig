@@ -81,4 +81,3 @@
 </body>
 </html>
 <script type="text/javascript" src="/js/src/particle.js"></script>
-<script type="text/javascript" src="/js/src/love.js"></script>
