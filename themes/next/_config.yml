@@ -46,12 +46,12 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories
-  about: /about
   archives: /archives
-  #tags: /tags
+  tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-  comments: /comments
+  about: /about
+  #comments: /comments
 
 # Enable/Disable menu icons.
 # Icon Mapping:

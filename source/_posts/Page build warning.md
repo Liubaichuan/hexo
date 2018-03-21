@@ -2,9 +2,9 @@
 title: Page build warning
 date: 2017-5-13 21:56:44
 tags:
+- Hexo&Next
 categories:
 - 解决方案
-- Hexo&Next
 ---
 
 #### 症状
