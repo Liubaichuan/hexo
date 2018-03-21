@@ -45,10 +45,10 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   about: /about
   archives: /archives
-  tags: /tags
+  #tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
   comments: /comments
@@ -212,7 +212,7 @@ links_title: 友链
 #links_layout: block
 #links_layout: inline
 links:
-  一萬个为什麽呀: http://wanzhiyu.tk
+  一萬个为什麽呀: http://wanzhiyu.me
   #Title: http://example.com/
   IIssNan: http://notes.iissnan.com/
 
