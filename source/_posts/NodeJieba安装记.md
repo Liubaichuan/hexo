@@ -17,7 +17,9 @@ categories:
 
 贴上Error info：
 
-> Error: The module '\\?\E:\Blog\hexo\node_modules\pinyin\node_modules\nodejieba\build\Release\nodejieba.node'
+> Error: The module '\\?
+
+> \E:\Blog\hexo\node_modules\pinyin\node_modules\nodejieba\build\Release\nodejieba.node'
 > was compiled against a different Node.js version using
 > NODE_MODULE_VERSION 48. This version of Node.js requires
 > NODE_MODULE_VERSION 59. Please try re-compiling or re-installing
