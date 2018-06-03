@@ -12,11 +12,11 @@ categories:
 
 ##### 原因
 
-多半是挂着科学上网用的梯子导致报错。
+多半是使用代理导致报错。
 
 ##### 解决方案
 
-多半把梯子退出也不能解决问题，Scrapy还是会使用代理。正确姿势是在settings.py中修改：
+多半退出代理也不能解决问题，Scrapy还是会使用代理。正确姿势是在settings.py中修改：
 
 ```python
 DOWNLOADER_MIDDLEWARES = {
